@@ -1,0 +1,2 @@
+Adds a command for wiping buffers like :bw but does not close splits. Instead
+it tries to go to the next buffer first before wiping the buffer.
