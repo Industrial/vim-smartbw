@@ -4,5 +4,5 @@ function! SmartBw()
   exec "bwipeout ".last_buffer
 endfunction
 
-command SmartBw call SmartBw()
+command! SmartBw call SmartBw()
 
